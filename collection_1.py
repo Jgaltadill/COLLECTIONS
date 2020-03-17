@@ -2,7 +2,7 @@
 #
 #Author: Jordi Garcia Altadill
 #Date: 07-02-2020
-##
+#
 #Modified on 17-03-2020
 #
 #Script that obtain the GitHub Score for a single user
